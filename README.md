@@ -63,7 +63,7 @@ ex_hist(coarse_grained_series)
 
 Attempting to run lzc_partition.m again after creating a graph may cause issues. Clear stored variables and try again.
 
-lzcell.m and ex_hist.m can run on ANY cell array of character strings (not just from bp_perm).
+lzcell.m and ex_hist.m can run on ANY 1-D cell array input.
 The input sequence aaabbaba should be formatted as cell array {'a';'a';'a';'b';'b';'a';'b';'a'}.
 
 ## Authors
@@ -71,7 +71,7 @@ The input sequence aaabbaba should be formatted as cell array {'a';'a';'a';'b';'
 Complexity code by Ari Kaye (akaye.edu@gmail.com)
 Signal processing and data collection by Dr. Matthew Semak (matthew.semak@unco.edu)
 
-## Good References
+## Good References (NEED TO FINISH THIS)
 
 Papers: try PLZC, Biomedical Signals, and Original LZC paper.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
