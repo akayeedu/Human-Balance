@@ -1,10 +1,10 @@
 # Characterizing the Complexity of Human Balance
 
-Simple overview of use/purpose.
+Here is some MATLAB code I wrote for the NASA Colorado Space Grant Consortium project on human balance.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This is a pilot study in designing information-theoretic tools that could non-invasively distinguish balance behaviors of healthy and impaired individuals (such as those with external injuries, neurological trauma, or movement disorders) from a force plate signal. Certain time series (such as human balance) appear noisy but may have an underlying deterministic mechanism. The Lempel-Ziv Complexity (LZC) is a good measure for capturing these types of dynamics. The LZC measures the irregularity of a symbolic sequence by counting the number of copy operations needed to reproduce the sequence. The Bandt-Pompe permutation method coarse-grains a real-valued time series into a symbolic sequence by assigning symbols based on the rankings of values of nearby points in the time series. Combining these approaches gives the Lempel-Ziv Permutation Complexity (PLZC), and this MATLAB code can be used on any time series to determine its PLZC. The PLZC signature may provide a measure that distinguishes the messy signals of healthy and impaired individuals.
 
 ## Getting Started
 
