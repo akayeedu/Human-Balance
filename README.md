@@ -75,7 +75,7 @@ Complexity code by Ari Kaye (akaye.edu@gmail.com)
 Signal processing and data collection by Dr. Matthew Semak (matthew.semak@unco.edu)
 
 ## Good References
+* [Combining LZC with Bandt-Pompe Method](https://arxiv.org/pdf/1310.1379)
 * [Original Paper on Lempel-Ziv Complexity](https://ieeexplore.ieee.org/document/1055501)
 * [Lempel-Ziv Complexity on Biomedical Signals](https://pubmed.ncbi.nlm.nih.gov/17073334/)
-* [Combining LZC with Bandt-Pompe Method](https://arxiv.org/pdf/1310.1379)
 
