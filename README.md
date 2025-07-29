@@ -72,7 +72,7 @@ The input sequence aaabbaba should be formatted as cell array {'a';'a';'a';'b';'
 
 Complexity code by Ari Kaye (akaye.edu@gmail.com)
 
-Signal processing and data collection by Dr. Matthew Semak (matthew.semak@unco.edu)
+Data collection and stationarity tests by Dr. Matthew Semak (matthew.semak@unco.edu)
 
 ## Good References
 * [Combining LZC with Bandt-Pompe Method](https://arxiv.org/pdf/1310.1379)
